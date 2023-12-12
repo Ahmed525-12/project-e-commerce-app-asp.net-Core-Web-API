@@ -1,0 +1,30 @@
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll

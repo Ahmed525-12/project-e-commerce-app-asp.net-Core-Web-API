@@ -1,0 +1,30 @@
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+D:\leran poragraming back-end\.NET\Demo TalabatAPI Session 7\TalabatProjectSolution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll

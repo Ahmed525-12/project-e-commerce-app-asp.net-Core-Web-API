@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\hat-core1.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\hat-core1.png"
+    },
+    {
+      "Id": "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\hat-react1.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\hat-react1.png"
+    },
+    {
+      "Id": "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\hat-react2.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\hat-react2.png"
+    },
+    {
+      "Id": "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ang1.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\sb-ang1.png"
+    },
+    {
+      "Id": "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ang2.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\sb-ang2.png"
+    },
+    {
+      "Id": "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-core1.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\sb-core1.png"
+    },
+    {
+      "Id": "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-core2.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\sb-core2.png"
+    },
+    {
+      "Id": "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-react1.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\sb-react1.png"
+    },
+    {
+      "Id": "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ts1.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\sb-ts1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Talabat.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Talabat.PL.props",
+      "PackagePath": "build\\Talabat.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Talabat.PL.props",
+      "PackagePath": "buildMultiTargeting\\Talabat.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Talabat.PL.props",
+      "PackagePath": "buildTransitive\\Talabat.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

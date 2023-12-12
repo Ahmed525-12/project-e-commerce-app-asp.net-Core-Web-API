@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.Service\\Talabat.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.Core\\Talabat.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.Core\\Talabat.Core.csproj",
+        "projectName": "Talabat.Core",
+        "projectPath": "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.Core\\Talabat.Core.csproj",
+        "packagesPath": "C:\\Users\\ahmedsayed\\.nuget\\packages\\",
+        "outputPath": "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmedsayed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.24, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.7.4, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[43.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.Service\\Talabat.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.Service\\Talabat.Service.csproj",
+        "projectName": "Talabat.Service",
+        "projectPath": "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.Service\\Talabat.Service.csproj",
+        "packagesPath": "C:\\Users\\ahmedsayed\\.nuget\\packages\\",
+        "outputPath": "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmedsayed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.Core\\Talabat.Core.csproj": {
+                "projectPath": "D:\\leran poragraming back-end\\.NET\\Demo TalabatAPI Session 7\\TalabatProjectSolution\\Talabat.Core\\Talabat.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.24, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
